@@ -1,0 +1,12 @@
+.wrapper{
+  height: 100vh;
+}
+
+.Signup{
+  width: 300px;
+  height: min-content;
+  border-radius: 5px;
+  color: palevioletred;
+  background-color: azure;
+  padding: 5rem;
+}
